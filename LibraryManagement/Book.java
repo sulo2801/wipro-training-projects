@@ -1,0 +1,1 @@
+public class Book{int id;String title,author;boolean issued; public Book(int i,String t,String a,boolean is){id=i;title=t;author=a;issued=is;} }

@@ -1,0 +1,1 @@
+public class Main{ public static void main(String[]a){ StudentService s=new StudentService(); s.addStudent(); s.view(); }}
